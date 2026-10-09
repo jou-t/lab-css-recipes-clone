@@ -2,14 +2,14 @@
 /* Reset default browser styles and provide a consistent starting point */
 
 * {
-  background-color: #eee7dd;
+  background-color: rgb(34, 20, 0);
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
 .Recipe {
-  background-color: #ffffff;
+  background-color: #eee7dd;
   display: block;
   padding: 80px 80px 80px 80px;
   margin: 80px 80px 80px 80px;
@@ -25,7 +25,7 @@
   display: block;
   width: 100%;
   border-radius: 24px;
-  background-color: #ffffff;
+  background-color: #eee7dd;
   margin-bottom: 32px;
 }
 .title {
@@ -42,7 +42,7 @@
 }
 
 .subtitle {
-  background-color: #ffffff;
+  background-color: #eee7dd;
   font-family: "arial", sans-serif;
   font-size: 24px;
   font-weight: bold;
@@ -51,7 +51,7 @@
 }
 
 .content {
-  background-color: #ffffff;
+  background-color: #eee7dd;
   font-family: arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -59,7 +59,7 @@
 }
 
 ul > li {
-  background-color: #ffffff;
+  background-color: #eee7dd;
 }
 
 *:before,
